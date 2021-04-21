@@ -3,7 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import ForumIcon from '@material-ui/icons/ForumRounded';
 import MoreVertIcon from '@material-ui/icons/MoreVertRounded';
 import SearchIcon from '@material-ui/icons/SearchRounded';
-import SignalCellularNull from '@material-ui/icons/SignalCellularNullRounded';
 import validator from 'validator';
 
 import {
